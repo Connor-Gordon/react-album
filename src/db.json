@@ -1,0 +1,43 @@
+{
+    "albums": [
+        {
+            "id": "1",
+            "albumId": "1",
+            "albumPic": "",
+            "albumName": ""
+        },{
+            "id": "2",
+            "albumId": "2",
+            "albumPic": "",
+            "albumName": ""
+        },{
+            "id": "3",
+            "albumId": "3",
+            "albumPic": "",
+            "albumName": ""
+        }
+    ],
+    "images": [
+        {
+            "id": "1",
+            "albumId": "",
+            "picUrl": "",
+            "picName": ""
+        },{
+            "id": "1",
+            "albumId": "",
+            "picUrl": "",
+            "picName": ""
+        },{
+            "id": "1",
+            "albumId": "",
+            "picUrl": "",
+            "picName": ""
+        },{
+            "id": "1",
+            "albumId": "",
+            "picUrl": "",
+            "picName": ""
+        }
+    ]
+}
