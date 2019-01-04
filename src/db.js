@@ -1,4 +1,4 @@
-{
+const things = {
     "albums": [
         {
             "id": "1",
